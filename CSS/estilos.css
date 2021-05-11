@@ -40,3 +40,12 @@ body{
     font-weight: normal;
     font-size: 0.8em;
 }
+
+footer{
+    background-color: darkslategrey;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 3rem;
+}
