@@ -81,3 +81,7 @@ footer{
     justify-content: center;
     height: 3.5rem;
 }
+
+#Img-Team img{
+    width: 100%;
+}
